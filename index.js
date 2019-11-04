@@ -1,2 +1,2 @@
-const $buzz = require('src/Buzz');
+const $buzz = require('./src/Buzz');
 module.exports = $buzz;
